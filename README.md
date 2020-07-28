@@ -1,6 +1,9 @@
-### Hi there 👋
+## Hi there 👋
+My name is Javier Lougedo Lorente. I've studied Computer Science in the UAM, in Madrid, Spain, and now I'm looking forward to enlarge my knowledge in **computers**, their **software** and enrich my **programming** skills, by taking some EDX courses and learning by myself.
 
-<!--
+<!--## Languages I've used so far
+Till the moment, I've programmed in various languages, such as **C**, **Java**, **Python**, **LISP**; I've made various websites and have a good touch on ofimatics as well. 
+
 **Lougedo/Lougedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
